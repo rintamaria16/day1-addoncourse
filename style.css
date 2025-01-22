@@ -1,0 +1,28 @@
+h4{
+    color:blueviolet;
+    border: 2px solid red;
+}
+h5{
+    font-family: 'Courier New', Courier, monospace;
+}
+.trial{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
+#one{
+    font-size: 30px;
+}
+.box{
+    border: 3px solid black;
+    padding: 30px 100px;
+    margin: 30px 500px;
+    background-color: green;
+
+}
+button{
+    background-color: aqua;
+}
+body{
+    background-color: rgb(168, 255, 127);
+}
+   
